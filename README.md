@@ -11,4 +11,4 @@ ___
 
 ### Database
 - PostgreSql - SQL
-- MongoDb - NoSql
+- Firebase - NoSql
